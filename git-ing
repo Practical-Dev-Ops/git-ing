@@ -1,0 +1,5 @@
+# **About Git and GitHub: Git is a version control tool widely used across different platforms. It helps to track and share work. Older version control tools such as "CVS" and "SVN" are Centralized forms of version control. Git offers a Distributed form of version control, making it easier for teams or groups to collaborate and work on projects.**
+
+# Listing some common Git commands used in Dev-Ops: git init (to initialize a folder by adding the .git file, so git can track the folder), git add (to add changes made to a file or folder), git commit (to commit changes made to a file or folder for git to track), git push (to push files and folders to a remote repository hosted on platforms such as GitHub, GitLab, Bitbucket), git status (to know the current state of a working directory), git diff (to know the difference between changes made on a file), git log (share the log details of a file or folder), git branch (shows total number of branches) git checkout/switch (to create a branch from an existing branch (main)).
+
+# Git workflow: After initialization using the 'git init' command. The git workflow follows git add ., git commit -m "", git push.
